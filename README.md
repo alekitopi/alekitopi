@@ -2,11 +2,10 @@
 > Me considero un desarrollador medio de Backend dado que aprendo nuevas cosas en todo momento con todos mis proyectos.
 > En Frontend sé hacer algunas cosas básicas pero no es algo que se me de genial.
 
-[![VSCode](https://img.shields.io/endpoint?color=orange&style=for-the-badge&url=https://dev.discordprofiles.me/api/badge/vscode/269852031194234880)](https://discord.gg/bGuuAPyQBA)
-[![Spotify](https://img.shields.io/endpoint?color=orange&style=for-the-badge&url=https://dev.discordprofiles.me/api/badge/spotify/269852031194234880)](https://open.spotify.com/user/vnpbu1ql8msh2p9rdvss8f2v6)
-[![Twitter Follow](https://img.shields.io/twitter/follow/alekitopi?color=orange&label=Twitter&logo=alekitopi&style=for-the-badge)](https://twitter.com/alekitopi)
-[![Twitch Status](https://img.shields.io/twitch/status/alekitopi?color=orange&label=Twitch&logo=alekitopi&style=for-the-badge)](https://twitch.tv/alekitopi)
-[![Discord](https://img.shields.io/discord/704133416614101023?color=orange&label=Discord&style=for-the-badge)](https://discord.gg/bGuuAPyQBA)
+[![VSCode](https://img.shields.io/endpoint?color=orange&style=for-the-badge&label=Programando&url=https://dev.discordprofiles.me/api/badge/vscode/269852031194234880)](https://discord.gg/bGuuAPyQBA)
+[![Spotify](https://img.shields.io/endpoint?color=orange&style=for-the-badge&label=Escuchando&url=https://dev.discordprofiles.me/api/badge/spotify/269852031194234880)](https://open.spotify.com/user/vnpbu1ql8msh2p9rdvss8f2v6)
+[![Twitter Follow](https://img.shields.io/twitter/follow/alekitopi?logo=twitter&logoColor=white&color=orange&label=Twitter&style=for-the-badge)](https://twitter.com/alekitopi)
+[![Discord](https://img.shields.io/discord/704133416614101023?logo=discord&logoColor=white&color=orange&label=Discord&style=for-the-badge)](https://discord.gg/bGuuAPyQBA)
 
 ### 🔧 Lenguajes aprendidos
 - JavaScript (principalmente en NodeJS)
